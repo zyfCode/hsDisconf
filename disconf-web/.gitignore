@@ -1,0 +1,12 @@
+/target
+/.settings
+/.classpath
+/.project
+/log
+/pom.xml.releaseBackup
+/output
+/.pydevproject
+/*tmp
+/*.iml
+*.DS_Store
+.idea
